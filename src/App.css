@@ -1,0 +1,10 @@
+ 
+  table, td, th {  
+    border: 1px solid #ddd;
+   width: 61%;
+  }
+   
+  th, td {
+    width: 10%;
+    padding: 15px;
+  }
